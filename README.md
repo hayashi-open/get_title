@@ -7,9 +7,9 @@ webページのタイトル取得
 ```
 $ bash get_title.sh
 input URL
-https://paiza.jp/
+https://paiza.jp
 
-[ITエンジニア・プログラマ向けの転職・就活・学習サービス【paiza（パイザ）】](https://paiza.jp/)
+[ITエンジニア・プログラマ向けの転職・就活・学習サービス【paiza（パイザ）】](https://paiza.jp)
 
 ```
 
