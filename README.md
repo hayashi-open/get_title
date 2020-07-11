@@ -14,3 +14,14 @@ https://paiza.jp
 ```
 
 URLを入力するとページのタイトルを抜き出す
+
+## get_title.js
+
+```
+$ npm install request
+```
+
+```
+$ node get_title.js http://paiza.jp
+ITエンジニア・プログラマ向けの転職・就活・学習サービス【paiza（パイザ）】
+```
